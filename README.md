@@ -1,0 +1,1 @@
+The purpose of this project was to explore a dataset from an online store Ice that sells video games all over the world. The intent was to gather data to inform their 2017 marketing campaign using predictive analysis of data from previous years.
